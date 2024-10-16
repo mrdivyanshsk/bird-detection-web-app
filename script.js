@@ -1,0 +1,5 @@
+$("#camera").click(function() {
+    
+});
+
+
